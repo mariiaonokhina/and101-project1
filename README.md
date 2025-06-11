@@ -32,7 +32,7 @@ The following STRETCH features are implemented:
 
 Here's a screenshot that demos all of the app's implemented features:
 
-![image](https://github.com/user-attachments/assets/d954e1e3-8ba2-48ef-842d-c401ee1e9fc4)
+<img width="289" alt="image" src="https://github.com/user-attachments/assets/1a744b7e-f8a8-44a5-9f2e-d3f9e3da68a1" />
 
 ## Notes
 
